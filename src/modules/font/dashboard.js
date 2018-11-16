@@ -8,6 +8,11 @@ export default {
     data(){
         return {
             nameList: [
+                '宋体',
+                '仿宋体',
+                '黑体',
+                '楷体',
+                '微软雅黑',
                 'Microsoft YaHei',
                 'Helvetica Neue',
                 'Helvetica',
